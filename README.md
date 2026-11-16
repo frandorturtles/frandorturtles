@@ -45,7 +45,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,js,html,css,react,git,github,linux,vscode&theme=light" alt="stack"/>
 
-<sub>(<a href="https://github.com/tandpfun/skill-icons">skillicons</a>)</sub>
 
 </div>
 
