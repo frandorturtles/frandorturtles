@@ -17,7 +17,7 @@
 
 </div>
 
-> **electronic engineering @ [Universidad del Norte](https://www.uninorte.edu.co/)** (2024–2029), based in Barranquilla, Colombia.
+> **Electronic engineering @ [Universidad del Norte](https://www.uninorte.edu.co/)** (2024–2029), based in Barranquilla, Colombia.
 >
 > I lead tech projects and organize **STEM** initiatives: **NASA Space Apps**, **Girls in Quantum** and the **Coloquios de Ciencias**.
 >
@@ -31,7 +31,7 @@
 
 ### find me
 
-<a href="https://frandorturtles.vercel.app><img src="https://img.shields.io/badge/portfolio-3F6B4A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://frandorturtles.vercel.app"><img src="https://img.shields.io/badge/portfolio-3F6B4A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/frandorturtles"><img src="https://img.shields.io/badge/linkedin-F4A6C0?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mfrancesca@uninorte.edu.co"><img src="https://img.shields.io/badge/email-FBE3A8?style=for-the-badge&logo=gmail&logoColor=3F6B4A"/></a>
 
