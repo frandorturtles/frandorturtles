@@ -54,9 +54,6 @@
 
 ### stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=frandorturtles&show_icons=true&hide_border=true&bg_color=E4EFDD&title_color=3F6B4A&icon_color=F4A6C0&text_color=3F6B4A&ring_color=F4A6C0&include_all_commits=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandorturtles&layout=compact&hide_border=true&bg_color=E4EFDD&title_color=3F6B4A&text_color=3F6B4A&langs_count=8" alt="lenguajes"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=frandorturtles&hide_border=true&background=E4EFDD&ring=F4A6C0&fire=F4A6C0&currStreakLabel=3F6B4A&sideLabels=3F6B4A&currStreakNum=3F6B4A&sideNums=3F6B4A&dates=5A8A64" alt="racha"/>
 
 </div>
