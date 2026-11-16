@@ -45,7 +45,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,js,html,css,react,git,github,linux,vscode&theme=light" alt="stack"/>
 
-<sub>edita la lista en <code>?i=</code> con los que uses (<a href="https://github.com/tandpfun/skill-icons">skillicons</a>)</sub>
+<sub>(<a href="https://github.com/tandpfun/skill-icons">skillicons</a>)</sub>
 
 </div>
 
