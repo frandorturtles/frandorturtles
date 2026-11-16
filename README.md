@@ -4,12 +4,12 @@
 
 <!-- Self-typing text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=3F6B4A&center=true&vCenter=true&width=640&lines=Electronic+Engineering+%40+Uninorte;NASA+Space+Apps+%C2%B7+Hack+Club+%C2%B7+Girls+in+Quantum;Coloquios+de+Ciencias+%C2%B7+STEM+for+everyone;Hardware+%2B+software+%2B+a+lot+of+curiosity" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=7D6BB5&center=true&vCenter=true&width=640&lines=Electronic+Engineering+%40+Uninorte;NASA+Space+Apps+%C2%B7+Hack+Club+ Alumni+%C2%B7+Girls+in+Quantum;Coloquios+de+Ciencias+%C2%B7+STEM+for+everyone;Hardware+%2B+software+%2B+a+lot+of+curiosity" alt="typing"/>
 </a>
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
@@ -19,25 +19,25 @@
 
 > **Electronic engineering @ [Universidad del Norte](https://www.uninorte.edu.co/)** (2024–2029), based in Barranquilla, Colombia.
 >
-> I lead tech projects and organize **STEM** initiatives: **NASA Space Apps**, **Girls in Quantum** and the **Coloquios de Ciencias**.
+> I lead tech projects and organize **STEM** initiatives: **NASA Space Apps**, **Hack Club Alumni**, **Girls in Quantum** and the **Coloquios de Ciencias**.
 >
 > I love building, teaching, and bringing curious people together around science and technology.
 >
-> currently exploring: CYBERSECURITY
+> currently exploring: Cybersecurity
 
-<br/>
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
 ### find me
 
-<a href="https://frandorturtles.vercel.app"><img src="https://img.shields.io/badge/portfolio-3F6B4A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/frandorturtles"><img src="https://img.shields.io/badge/linkedin-F4A6C0?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mfrancesca@uninorte.edu.co"><img src="https://img.shields.io/badge/email-FBE3A8?style=for-the-badge&logo=gmail&logoColor=3F6B4A"/></a>
+<a href="https://frandorturtles.vercel.app"><img src="https://img.shields.io/badge/portfolio-7D6BB5?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/frandorturtles"><img src="https://img.shields.io/badge/linkedin-A9B8E8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mfrancesca@uninorte.edu.co"><img src="https://img.shields.io/badge/email-F3D9EA?style=for-the-badge&logo=gmail&logoColor=5B4A8A"/></a>
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
@@ -47,17 +47,20 @@
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
 ### stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=frandorturtles&hide_border=true&background=E4EFDD&ring=F4A6C0&fire=F4A6C0&currStreakLabel=3F6B4A&sideLabels=3F6B4A&currStreakNum=3F6B4A&sideNums=3F6B4A&dates=5A8A64" alt="streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=frandorturtles&show_icons=true&hide_border=true&bg_color=F3EEFF&title_color=7D6BB5&icon_color=E9A7D2&text_color=5B4A8A&ring_color=B9A4E3&include_all_commits=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandorturtles&layout=compact&hide_border=true&bg_color=F3EEFF&title_color=7D6BB5&text_color=5B4A8A&langs_count=8" alt="top languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=frandorturtles&hide_border=true&background=F3EEFF&ring=B9A4E3&fire=E9A7D2&currStreakLabel=7D6BB5&sideLabels=7D6BB5&currStreakNum=5B4A8A&sideNums=5B4A8A&dates=8A7BC0" alt="streak"/>
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
@@ -67,5 +70,7 @@
 <img src="https://raw.githubusercontent.com/frandorturtles/frandorturtles/output/github-snake.svg" alt="contribution snake" width="100%"/>
 
 </div>
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <img src="./assets/footer.svg" alt="" width="100%"/>
