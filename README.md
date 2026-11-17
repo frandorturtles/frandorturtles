@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### about me 𐙚⋆°｡⋆♡
+### 𐙚⋆° about me ｡⋆♡
 
 </div>
 
