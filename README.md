@@ -21,6 +21,7 @@
 > I love building, teaching, and bringing curious people together around science and technology.
 >
 > currently exploring: Cybersecurity
+⋆𐙚 ̊.🪻♡
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
