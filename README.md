@@ -21,13 +21,13 @@
 > I love building, teaching, and bringing curious people together around science and technology.
 >
 > currently exploring: Cybersecurity
-⋆𐙚 ̊.🪻♡
+⋆
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
 
-### find me
+### find me🪻♡
 
 <a href="https://frandorturtles.vercel.app"><img src="https://img.shields.io/badge/portfolio-7D6BB5?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/frandorturtles"><img src="https://img.shields.io/badge/linkedin-A9B8E8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
