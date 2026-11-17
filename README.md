@@ -3,7 +3,6 @@
 <img src="./assets/header.svg" alt="Francesca Emilsen Martínez" width="100%"/>
 
 <!-- Self-typing text -->
-<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=7D6BB5&center=true&vCenter=true&width=640&lines=Electronic+Engineering+%40+Uninorte;NASA+Space+Apps+%C2%B7+Hack+Club+ Alumni+%C2%B7+Girls+in+Quantum;Coloquios+de+Ciencias+%C2%B7+STEM+for+everyone;Hardware+%2B+software+%2B+a+lot+of+curiosity" alt="typing"/>
 </a>
 
