@@ -51,7 +51,7 @@
 
 ### stats ≽^• ˕ • ྀི≼
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=frandorturtles&hide_border=true&background=F3EEFF&ring=B9A4E3&fire=E9A7D2&currStreakLabel=7D6BB5&sideLabels=7D6BB5&currStreakNum=5B4A8A&sideNums=5B4A8A&dates=8A7BC0" alt="streak"/>
+<img src="https://github-reade-streak-stats.herokuapp.com/?user=frandorturtles&hide_border=true&background=F3EEFF&ring=B9A4E3&fire=E9A7D2&currStreakLabel=7D6BB5&sideLabels=7D6BB5&currStreakNum=5B4A8A&sideNums=5B4A8A&dates=8A7BC0" alt="streak"/>
 
 </div>
 
